@@ -1,5 +1,5 @@
 # Ticketbase
 
-[Logos](logos/) and branding guidelines.
+**[View logo files →](logos/)**
 
 [![](logos/negative full.png)](logos/)
